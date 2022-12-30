@@ -1,4 +1,4 @@
-# az-702
-azure 702 repo
+# az-720
+azure 720 repo
 
-This repo contains code for the AZ-702 course
+This repo contains code for the AZ-720 course
